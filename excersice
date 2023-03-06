@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main (void)
+{
+ int birth_day;   
+printf("what's your birth day");
+scanf ("%d", & birth_day );
+printf ("your birth dat is : %d\n", birth_day);
+}
